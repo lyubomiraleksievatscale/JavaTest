@@ -1,4 +1,4 @@
-public class Main {
+public class Task1 {
     public static void findMaxSum(int[] array) {
         int maxSum = Integer.MIN_VALUE;
         int currentSum = 0;
